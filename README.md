@@ -98,9 +98,15 @@ visualize_results(image, boxes, labels)
 ```
 
 ## Results
-![Results](./assets/result_.png)
-*Example results on different types of images*
+*Top 20 proposal regions*
 
+
+![Results](./assets/result.jpg)
+
+![Results](./assets/result_with_crops.jpg)
+
+
+Check `./crops` directory for more precisely results
 ## Reference
 
 [1] J.R.R. Uijlings, K.E.A. van de Sande, T. Gevers, A.W.M. Smeulders.
