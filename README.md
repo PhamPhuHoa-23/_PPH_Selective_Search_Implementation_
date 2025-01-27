@@ -35,6 +35,7 @@ Selective Search is an object proposal algorithm that combines the strength of b
 
 ```
 selective_search/
+├── data/BSD500/images/train/
 ├── src/
 │   ├── selective_search.py   # Main algorithm implementation
 │   ├── color_spaces.py       # Color space conversions
